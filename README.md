@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amjrotich
 - 💼 I’m a full-stack developer and an entrepreneur
+- 💻 Founder at CradleShyft, Inc., HomesAfric LTD, and PixyAds, Inc.
 - 💞️ I’m looking to collaborate on open source AI projects
 - =============================================================================
 - 📫 You can reach me on:
