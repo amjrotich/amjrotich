@@ -32,7 +32,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 ### 🌟 Business & Impact Projects
 
 - [Ad House Agency](https://adhouse.agency) — Partnering with businesses to deliver impactful web solutions, digital marketing, and growth strategies.
-- [Retail Place Africa] (https://retailplace.africa) — Building the future of retail across Africa through a robust e-commerce platform, supporting local entrepreneurs and communities.
+- [Retail Place Africa](https://retailplace.africa) — Building the future of retail across Africa through a robust e-commerce platform, supporting local entrepreneurs and communities.
 
 ---
 
