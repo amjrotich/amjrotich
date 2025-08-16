@@ -33,7 +33,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 
 - [Ad House Agency](https://adhouse.agency) — Partnering with businesses to deliver impactful web solutions, digital marketing, and growth strategies.
 - [Retail Place Africa](https://retailplace.africa) — Building the future of retail across Africa through a robust e-commerce platform, supporting local entrepreneurs and communities.
-- [Smart SEO Report - Audit Tool](https://smartseo.report) — Building the future of retail across Africa through a robust e-commerce platform, supporting local entrepreneurs and communities.
+- [Smart SEO Report - Audit Tool](https://smartseo.report) — A powerful SEO audit tool that helps businesses analyze, optimize, and grow their online presence with actionable insights.
 
 ---
 
