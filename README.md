@@ -14,7 +14,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 
 - **8+ years** of experience in software engineering & digital marketing
 - **20+** successful web and mobile projects delivered
-- **100K+** users reached through deployed platforms
+- **4.5K+** users reached through deployed platforms
 - **10+** industries served, including e-commerce, agency, and retail
 - **Clients in 4+ countries:** Kenya, U.S., U.K., Dominican Republic
 
