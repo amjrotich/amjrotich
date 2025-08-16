@@ -57,7 +57,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 
 ### 📫 Connect & Collaborate
 
-- [LinkedIn](https://linkedin.com/in/jrotich)
+- [LinkedIn: Jeremiah Rotich, Nairobi, Kenya](https://linkedin.com/in/jrotich)
 - Email: [jeremiah@adhouse.agency](mailto:jeremiah@adhouse.agency)
 
 ---
