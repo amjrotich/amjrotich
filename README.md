@@ -24,8 +24,8 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 
 - **Frontend:** React, Node.js, Typescript, Flutter, React Native
 - **Backend:** Laravel (PHP), Django (PYTHON), GenKit (AI)
-- **Databases:** Supabase, MariaDB, MongoDB
-- **Other:** WordPress, Kotlin
+- **Databases:** PostgreSQL, MariaDB, MongoDB, Neo4j
+- **Other:** WordPress, Kotlin, Stable Video Diffusion, ML & AI
 
 ---
 
