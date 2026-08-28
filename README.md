@@ -49,9 +49,9 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 
 ### 🌱 Interests
 
-- Nature & Balcony Gardening
-- Prototyping new ideas
-- Connecting with diverse people and perspectives
+- AI & Machine Learning
+- Startups & SMEs
+- Agribusiness
 
 ---
 
