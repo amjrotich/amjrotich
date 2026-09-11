@@ -16,7 +16,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 - **20+** successful web and mobile projects delivered
 - **500K+** users reached through deployed platforms
 - **10+** industries served, including e-commerce, agency, and retail
-- **Clients in 4+ countries:** Kenya, U.S., U.K., Dominican Republic
+- **Clients in 4+ countries:** U.S., U.K., Dominican Republic, Kenya
 
 ---
 
@@ -25,7 +25,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 - **Frontend:** React, Node.js, Typescript, Flutter, React Native
 - **Backend:** Laravel (PHP), Django (PYTHON), GenKit (AI)
 - **Databases:** PostgreSQL, MariaDB, MongoDB, Neo4j
-- **Other:** WordPress, Kotlin, Stable Video Diffusion, ML & AI
+- **Other:** WordPress, Kotlin, Stable Video Diffusion, ML & AI, DevSecOps
 
 ---
 
