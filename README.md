@@ -59,6 +59,7 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 
 - LinkedIn: [Jeremiah Rotich](https://linkedin.com/in/jrotich)
 - Email: [dev.jrotich@pm.me](mailto:dev.jrotich@pm.me)
+- Address: P.O. Box xxxx - xxxx
 
 ---
 
