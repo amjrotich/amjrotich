@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeremiah Rotich
+# Jeremiah Rotich
 
 **Full-stack Developer & Digital Marketer**
 
