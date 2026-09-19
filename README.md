@@ -4,6 +4,14 @@
 
 ---
 
+### 📫 Connect With ME
+
+- LinkedIn: [Jeremiah Rotich](https://linkedin.com/in/jrotich)
+- Email: [dev.jrotich@pm.me](mailto:dev.jrotich@pm.me)
+- Address: P.O. Box 1255 - 00618, Ruaraka, Nairobi - Kenya
+
+---
+
 ### 🚀 About Me
 
 I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate about creating digital solutions that empower brands and communities. With a blend of technical expertise and marketing acumen, I help businesses and teams turn ideas into scalable, user-centric products.
@@ -52,14 +60,6 @@ I'm a business-driven Software Engineer based in Nairobi, Kenya, passionate abou
 - AI & Machine Learning
 - Startups & SMEs
 - Agribusiness
-
----
-
-### 📫 Connect & Collaborate
-
-- LinkedIn: [Jeremiah Rotich](https://linkedin.com/in/jrotich)
-- Email: [dev.jrotich@pm.me](mailto:dev.jrotich@pm.me)
-- Address: P.O. Box xxxx - xxxx
 
 ---
 
