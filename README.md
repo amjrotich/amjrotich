@@ -4,7 +4,7 @@
 
 ---
 
-### 📫 Connect With ME
+### 📫 Contact Me
 
 - LinkedIn: [Jeremiah Rotich](https://linkedin.com/in/jrotich)
 - Email: [dev.jrotich@pm.me](mailto:dev.jrotich@pm.me)
